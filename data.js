@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.08859075118702009,
-          "pitch": 0.242840682130538,
+          "yaw": 0.07977130589595127,
+          "pitch": 0.23883928015142253,
           "rotation": 0,
           "target": "1-puestos-de-trabajo"
         }
@@ -68,20 +68,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.17150388372859027,
-          "pitch": 0.361856848485683,
+          "yaw": 0.197253582140533,
+          "pitch": 0.3792005297479619,
           "rotation": 0,
           "target": "2-plotter"
         },
         {
-          "yaw": 1.0427495421848914,
-          "pitch": 0.2405151009528712,
+          "yaw": 0.9734424184264583,
+          "pitch": 0.2139949075306884,
           "rotation": 0.7853981633974483,
           "target": "5-almacn"
         },
         {
-          "yaw": 3.017878045531563,
-          "pitch": 0.25233993222174256,
+          "yaw": 3.055889206633948,
+          "pitch": 0.23954948621523542,
           "rotation": 0,
           "target": "0-sala-de-estar"
         }
@@ -118,26 +118,26 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.1628677097567124,
-          "pitch": 0.17778070257466538,
+          "yaw": 0.1324548348775334,
+          "pitch": 0.22503986865231518,
           "rotation": 0,
           "target": "3-oficina-contabilidad"
         },
         {
-          "yaw": -0.264560858831949,
-          "pitch": 0.1864221206613763,
-          "rotation": 0,
-          "target": "4-oficina-principal"
-        },
-        {
-          "yaw": 1.7489135970112901,
-          "pitch": 0.23258187135256847,
+          "yaw": 1.781998179952244,
+          "pitch": 0.23341375047110624,
           "rotation": 5.497787143782138,
           "target": "5-almacn"
         },
         {
-          "yaw": 2.8242028302864384,
-          "pitch": 0.4317050928056805,
+          "yaw": -0.22696261709327992,
+          "pitch": 0.21307859115255035,
+          "rotation": 0,
+          "target": "4-oficina-principal"
+        },
+        {
+          "yaw": 2.8614216040942093,
+          "pitch": 0.4329861376611266,
           "rotation": 0,
           "target": "1-puestos-de-trabajo"
         }
@@ -174,8 +174,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.11715202960053617,
-          "pitch": 0.2994649236688467,
+          "yaw": 0.12371748591404952,
+          "pitch": 0.2810324319662172,
           "rotation": 0,
           "target": "2-plotter"
         }
@@ -212,8 +212,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.030969370913174643,
-          "pitch": 0.24653980512383988,
+          "yaw": -0.031078126667019035,
+          "pitch": 0.3073329341484481,
           "rotation": 0,
           "target": "2-plotter"
         }
